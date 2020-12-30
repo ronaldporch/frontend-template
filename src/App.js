@@ -3,7 +3,8 @@ import Apollo from './components/Apollo'
 
 const App = () => {
   return <div>
-    <Counter/>
+    Hello!
+    <Counter />
     <Apollo />
   </div>
 }

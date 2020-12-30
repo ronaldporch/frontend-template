@@ -1,5 +1,7 @@
 import counterSlice from './counter'
 
-export default {
+const state = {
   counter: counterSlice.reducer
 }
+
+export default state
